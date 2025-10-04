@@ -94,7 +94,7 @@
     "neighbourhoods": "Lytle | Sayles Boulevard | Chimney Rock | River Oaks | Elmwood | Highland | Candleridge | Park Central | Far Southside | Over Place | Westwood Village | Red Bud Park | Shady Hollow | Buck Creek",
     "zipCodes": "79601 | 79605",
     "address": "2501 BUFFALO GAP RD, United States",
-    "publishedAt": "2025-09-19"
+    "publishedAt": "2025-10-07  2025-10-08 2025-10-09"
   },
   "abbott-tx": {
     "name": "Abbott",
@@ -191,7 +191,7 @@
     "neighbourhoods": "Oak Street | Eubank Street | Elm Street | HCR 3101 | CR 3102 | CR 3103 | CR 3104 | CR 3105 | CR 3106 | CR 3107 | FM 1242 | FM 2114 | FM 934.",
     "zipCodes": "76621",
     "address": "220 E WALNUT ST, United States",
-    "publishedAt": "2025-09-19"
+    "publishedAt": "2025-10-07  2025-10-08 2025-10-09"
   },
   "abernathy-tx": {
     "name": "Abernathy",
@@ -288,6 +288,6 @@
     "neighbourhoods": "Central | Southside | Northside | Eastside | Westside | Oak Street | Maple Avenue | Elm Drive | Pine Circle | Cedar Lane",
     "zipCodes": "79311",
     "address": "801 AVENUE D, United States",
-    "publishedAt": "2025-09-19"
+    "publishedAt": "2025-10-07  2025-10-08 2025-10-09"
   }
 }
